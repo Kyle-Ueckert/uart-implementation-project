@@ -1,0 +1,11 @@
+gpio.c:13:6:gpio_LED_config	4	static
+gpio.c:32:6:gpio_LED_writeGreen	16	static
+gpio.c:44:6:gpio_LED_toggleGreen	4	static
+gpio.c:49:6:gpio_LED_writeRed	16	static
+gpio.c:61:6:gpio_LED_toggleRed	4	static
+gpio.c:69:6:gpio_PB_config	4	static
+gpio.c:80:6:gpio_PB_read	4	static
+gpio.c:88:6:gpio_SW_config	4	static
+gpio.c:114:6:gpio_SW1_read	4	static
+gpio.c:118:6:gpio_SW2_read	4	static
+gpio.c:126:6:gpio_PC13_config	4	static
